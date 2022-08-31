@@ -1,0 +1,19 @@
+.drop-area {
+  background-color: hotpink;
+  height: 500px;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .upload-icon{
+    
+    font-size: 120px;
+    color: aquamarine;
+    cursor: pointer;
+  }
+  .input {
+    opacity: 0;
+    cursor: pointer;
+    font-size: 100px;
+  }
+}
